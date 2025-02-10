@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinethudantha&label=Profile%20views&color=0e75b6&style=flat" alt="dinethudantha" /> </p>
 
-- 🌱 I’m currently studyind **at Eastern University, Sri Lanka**
+- 🌱 I’m currently studying **at Eastern University, Sri Lanka**
 
 - 📫 How to reach me **dinethu126@gmail.com**
 
